@@ -1,0 +1,20 @@
+This is Nicoletta Haddad's Weather Project
+
+Learning objective(Using Python):
+-Use High Order Functions(Functions within functions)
+-Use List Comprehension Using the One Line for Loop
+-Practice functions and alternate ways of writing same program
+-Practice creating, manipulating and changing Lists
+-Practice opening, reading and using csv files
+-Practice Conditionals
+-Practice writing DRY code
+-Run and pass tests
+-Use statistics module
+-Utilise methods:
+       -map()
+       -round()
+       -fromisoformat()
+       -strftime()
+-learnt pass, continue and next (all skip lines of code, program moves on)
+-remember /n (change line)
+-use of \ (computer knows still part of program even though change line)
